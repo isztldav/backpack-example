@@ -1,7 +1,7 @@
 # backpack-example
 Simple POC
 
-`composer install`
+`composer install`  
 `npm install && npm run dev`
 
 Install backpack files:
