@@ -1,6 +1,9 @@
 # backpack-example
 Simple POC
 
+`composer install`
+`npm install && npm run dev`
+
 Install backpack files:
 ```
 php artisan backpack:base:install
